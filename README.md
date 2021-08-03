@@ -4,7 +4,7 @@ Flask backend.
 Instructions to run the server in a Linux environment
 Clone the repository.
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 `export FLASK_APP=api`
 
